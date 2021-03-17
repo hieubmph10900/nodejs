@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "5qvzvjz35",
+      "name": "Giay NIKE2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay2.jpg?alt=media&token=5f93d070-ef3d-484a-b435-07f42683614d",
+      "price": "300.000"
+    },
+    {
+      "id": "odlkxjv4s",
+      "name": "Giay NIKE3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay3.jpg?alt=media&token=eb06ac52-b461-42fa-a57e-9e2c46ee9b41",
+      "price": "300000",
+      "categoryId": "2"
+    },
+    {
+      "id": "lyzwe97ip",
+      "name": "Giay NIKE$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay4.jfif?alt=media&token=28e7c305-21d7-4387-9751-7c8325b20c6e",
+      "price": "300.000",
+      "categoryId": "2"
+    },
+    {
+      "id": "lvi5zxtx2",
+      "name": "Giay NIKE%",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay5.jfif?alt=media&token=e406da81-71b8-4989-b652-4255ea2f96d4",
+      "price": "100.000",
+      "categoryId": "2"
+    },
+    {
+      "id": "zo8lp0yny",
+      "name": "bui minh hieu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay7.jfif?alt=media&token=df60b37a-7f3e-47d4-850b-914ec564e03e",
+      "price": "300.000",
+      "categoryId": "1"
+    },
+    {
+      "id": "z5tmetgne",
+      "categoryId": "1",
+      "name": "bui minh hieu111",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay15.jfif?alt=media&token=057cc0d5-562b-4bb8-88cd-f103de5bcdbb",
+      "price": "300.000"
+    },
+    {
+      "id": "y9hldrbv4",
+      "categoryId": "1",
+      "name": "bui minh hieu111",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay15.jfif?alt=media&token=292f954f-da90-4d0c-8876-8ef687dede2d",
+      "price": "300.000"
+    },
+    {
+      "id": "7k61jzooa",
+      "name": "Giay NIKE113",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay9.jfif?alt=media&token=7452b970-5654-41d7-850e-27a3d2ecb2fb",
+      "price": "500.000"
+    },
+    {
+      "id": "rm8hl7qjg",
+      "name": "nike33",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2Fgiay16.jpg?alt=media&token=c01551a5-5a83-43af-8a84-29892aa2884d",
+      "chitiet": "rat dep",
+      "price": "300.000"
+    },
+    {
+      "id": "qsu91l2l9",
+      "name": "bui minh hieu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop321-c467a.appspot.com/o/images%2F156653752_896611187820341_3618586489517536369_n.png?alt=media&token=6385a49c-f19a-4f55-8ec0-8d86700b03c0",
+      "chitiet": "rat dep",
+      "price": "300.000"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Giay Loai 1"
+    },
+    {
+      "id": "2",
+      "name": "Giay Loai 2"
+    }
+  ]
+}
